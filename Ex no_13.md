@@ -13,7 +13,7 @@ To write a C program to read the elements and print only the odd elements in the
 7. End.
 ## Program:
 ```
-
+..
 #include<stdio.h> 
 int main()
 {
