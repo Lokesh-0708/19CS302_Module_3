@@ -10,7 +10,7 @@ To write a C program to delete first element in an array.
 4. Ask the user to make an input
 5. Print out the answer
 6. End. 
-
+..
 ## Program:
 ```
 
