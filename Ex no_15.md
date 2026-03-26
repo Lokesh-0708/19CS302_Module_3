@@ -11,7 +11,7 @@ To write a C program that reads a one-dimensional array of integers and replaces
 5. Initialize array elements.
 6. Replace all even elements to E
 7. End.
-
+..
 ## Program:
 ```
 
