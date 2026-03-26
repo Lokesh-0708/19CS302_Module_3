@@ -3,7 +3,7 @@
 ## AIM:
 To write a C program to check whether the given number is prime or not using function without return type and with arguments.
 
-
+..
 ## Program:
 ```
 
